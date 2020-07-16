@@ -1,0 +1,16 @@
+@import "SearchForm.css";
+
+.searchPage {
+    display: block;
+}
+
+ul.cocktailsList {
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(132px, 1fr)); 
+  }
+  
+  ul.cocktailsList li {
+    text-align: center;
+    padding: 1rem 1rem;
+  }
