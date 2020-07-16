@@ -1,3 +1,10 @@
+Create-react-app
+Added React-Router-Dom
+CocktailDB api
+Search for a cocktail
+List all alcoholic cocktails
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
